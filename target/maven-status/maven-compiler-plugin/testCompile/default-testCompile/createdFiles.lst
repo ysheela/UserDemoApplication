@@ -1,0 +1,7 @@
+com\example\userdemo\Util\TestUtil.class
+com\example\userdemo\repository\UserRepositoryTest.class
+com\example\userdemo\UserdemoApplicationTests.class
+com\example\userdemo\Util\TestAdvice.class
+com\example\userdemo\Util\TestUtil$1.class
+com\example\userdemo\Controllers\UserControllerTest.class
+com\example\userdemo\Controllers\UserControllerTest$1.class
