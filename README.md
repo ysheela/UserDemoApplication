@@ -28,6 +28,8 @@ To retrieve user by ID:
 [http://localhost:8095/user/user_id](http://localhost:8095/user/user_id)   
 `user_id` should be replaced by real `ID` from the main page.
 
+Also provides the rest API to delete and also update the user information.
+
 ## Application Features
 This application demonstrates:
 
